@@ -6,10 +6,10 @@ This is a backend api without authentication for the crud operations supporting 
 This software was developed with Laravel 9.3.8 using model migrations.
 
 ## Requirements
-PHP 7.4 / Programing Language
-MySQl or PostGress / Database Engine
-Composer / Package manager for PHP
-Laravel 9.3.8 / MVC framework 
+- PHP 7.4 / Programing Language
+- MySQl or PostGress / Database Engine
+- Composer / Package manager for PHP
+- Laravel 9.3.8 / MVC framework 
 
 ## Getting Started
 Clone this respository
